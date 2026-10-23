@@ -1,5 +1,8 @@
 # Vibe Coding Platform
 
+> **Note:** this is my deployment of Vercel's open-source [Vibe Coding Platform example](https://github.com/vercel/examples/tree/main/apps/vibe-coding-platform), set up to explore the AI SDK, AI Gateway and Vercel Sandbox. The code is Vercel's.  
+> Live: https://vibe-coding-platform-one-delta-78.vercel.app
+
 An end-to-end coding platform where users enter text prompts and an AI agent generates full-stack applications in a sandboxed environment with live preview, file explorer, and command logs.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?demo-description=A+full-stack+coding+platform+built+with+Vercel%27s+AI+Cloud%2C+AI+SDK%2C+and+Next.js.&demo-image=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Fv1754588832%2FOSSvibecodingplatform%2Fscreenshot.png&demo-title=Vibe+Coding+Platform&demo-url=https%3A%2F%2Fvercel.fyi%2Fvibes&project-name=Vibe+Coding+Platform&repository-name=vibe-coding-platform&repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fexamples%2Ftree%2Fmain%2Fapps%2Fvibe-coding-platform&from=vibe-coding-platform-app)
